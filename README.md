@@ -5,13 +5,14 @@
 ---
 
 ## スキル
-
-- NExt.js
-- TypeScript
-- TailwindCSS
-- Prisma
-- Supabase
-- Vercel
+- フロントエンド
+  - NExt.js
+  - TypeScript
+  - TailwindCSS
+- バックエンド
+  - Prisma
+  - Supabase
+  - Vercel
 
 ---
 
@@ -19,3 +20,8 @@
 
 - GitHub
 - Git
+
+## タスク
+- [x] Next.jsの学習
+- [ ] TypeScriptの学習
+- [ ] TailwindCSSの学習
