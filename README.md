@@ -5,14 +5,24 @@
 ---
 
 ## スキル
-- フロントエンド
+
+<!-- - フロントエンド
   - NExt.js
   - TypeScript
   - TailwindCSS
 - バックエンド
   - Prisma
   - Supabase
-  - Vercel
+  - Vercel -->
+
+| カテゴリ       | 技術                  | バージョン |
+| :------------- | --------------------- | ---------: |
+| フレームワーク | Next.js               |       15.0 |
+| 言語           | TypeScript            |        5.6 |
+| スタイリング   | Tailwind CSS          |        4.0 |
+| DB             | Supabase (PostgreSQL) |          - |
+| ORM            | Prisma                |        6.0 |
+| デプロイ       | Vercel                |          - |
 
 ---
 
@@ -22,16 +32,19 @@
 - Git
 
 ## タスク
+
 - [x] Next.jsの学習
 - [ ] TypeScriptの学習
 - [ ] TailwindCSSの学習
 
 ## リンク
+
 - [GitHub公式サイト](https://github.com)
 - [README.md](./README.md)
 - ![スクリーンショット](picture.png)
 
 ## コードの例
+
 ```diff
 - const message = "Hello, World!";
 + const message = "こんにちは、世界！";
@@ -65,4 +78,3 @@ npm run dev
   }
 }
 ```
-
