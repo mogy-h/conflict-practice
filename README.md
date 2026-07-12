@@ -1,10 +1,11 @@
-# 名前
+# テストアプリ概要
 
-- 茂木大樹
+- テストテストテストテストテスト<br>
+- 概要概要概要概要概要概要概要
 
 ---
 
-## スキル
+## 技術スタック
 
 <!-- - フロントエンド
   - NExt.js
@@ -26,7 +27,7 @@
 
 ---
 
-## 学習中の技術
+<!-- ## 学習中の技術
 
 - GitHub
 - Git
@@ -41,9 +42,9 @@
 
 - [GitHub公式サイト](https://github.com)
 - [README.md](./README.md)
-- ![スクリーンショット](picture.png)
+- ![スクリーンショット](picture.png) -->
 
-## コードの例
+<!-- ## コードの例
 
 ```diff
 - const message = "Hello, World!";
@@ -89,4 +90,24 @@ npm run dev
 > `npx` を使えばグローバルインストール不要で実行できます。
 > ```bash
 > npx my-package init
-> ```
+> ``` -->
+
+## セットアップ手順
+
+```bash
+git clone https://github.com/user/repo.git
+# ディレクトリに移動
+cd repo
+# 依存パッケージをインストール
+npm install
+# 開発サーバーを起動
+npm run dev
+```
+---
+
+## 環境変数一覧
+
+| 変数名 | 値 | 説明 |
+| :----- | :-- | :--- |
+| NEXT_PUBLIC_API_URL | https://api.example.com | APIのベースURL |
+| NEXT_PUBLIC_SITE_URL | https://example.com | サイトのベースURL |
